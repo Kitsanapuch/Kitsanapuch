@@ -1,43 +1,58 @@
 <h1 align="center">Hi, I'm Kitsanapuch 👋</h1>
 <h3 align="center">Software Engineering Student at Thammasat University 🇹🇭</h3>
-<p align="center">Building useful software with AI, machine learning, and human-centered thinking.</p>
+<p align="center">Applied AI · Machine Learning · Computer Vision · Explainable AI</p>
 <p align="center">
   <a href="https://kitsanapuch.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_my_website-17253C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:kitsanapuch@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-- 🎓 Studying **Software Engineering at Thammasat University**.
-- 🧠 Interested in **Machine Learning, Explainable AI, NLP, and Computer Vision**.
-- 📱 Building web and mobile applications with **React Native, Expo, and TypeScript**.
-- 🛠️ Working with **Python, FastAPI, ML pipelines, and IoT prototypes**.
-- 🌱 Hands-on experience preparing datasets and training models for real-time plant nutrient deficiency detection.
-- 💭 I believe AI can accelerate development, while human judgment, creativity, and empathy guide what we build.
+I'm a **Software Engineering student at Thammasat University**, focused on building AI applications that connect model predictions to useful, understandable software.
 
-### 🛠️ Tech Stack & Skills
+- 🌱 Prepared datasets and trained models for **real-time plant nutrient deficiency detection**, connecting computer vision with a Raspberry Pi prototype.
+- 🔎 Contributed to **ScamGraph AI**, combining ML-based scam-risk analysis, explainable results, and web/mobile workflows.
+- 🤖 Integrated **Google Gemini AI** into MySchool for tutoring, quiz generation, and learning assistance.
+- 🔬 Exploring **meta-learning, training dynamics, and predictive early stopping** through the AI Training Intelligence research proposal.
+- 💭 I value careful evaluation, clear explanations, and human judgment when developing AI systems.
+
+### 🧠 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,raspberrypi&theme=dark" alt="Python, Scikit-Learn, FastAPI, Raspberry Pi">
+
+**Artificial Intelligence (AI) · Machine Learning · Explainable AI (XAI) · Natural Language Processing (NLP) · Scikit-Learn · XGBoost · AI Integration & Application**
+
+#### Applied AI Experience
+
+| Focus | Experience |
+| :--- | :--- |
+| **ML Application Integration** | Integrated ML-based risk analysis into ScamGraph AI, connecting analysis results, scan history, reporting, and relationship graph features. The prototype uses synthetic data and requires real-world evaluation. |
+| **Computer Vision & Model Training** | Prepared datasets and trained models for plant nutrient deficiency detection, with YOLOv8, CIRA CORE, and real-time image detection. |
+| **Generative AI Applications** | Integrated Google Gemini AI into MySchool for AI Tutor, Teacher Copilot, quiz generation, and Family Advisor. |
+| **AI + IoT Prototyping** | Built a plant nutrient deficiency detection prototype using Raspberry Pi 5, LINE notifications, and a 3D-printed enclosure. |
+| **AI Backend & Cross-Platform Testing** | Connected AI workflows with Python/FastAPI and React Native/Expo; tested web and iOS Simulator flows and resolved API connectivity and result-display issues. |
+
+**Research interests:** Meta-learning · Learning-curve prediction · Early stopping · Computational efficiency
+
+*AI Training Intelligence is a research proposal, not a completed experimental system.*
+
+### 🛠️ Software Engineering & Tools
 
 **Languages & Web**
 
-<img src="https://skillicons.dev/icons?i=python,ts,php,html,css&theme=dark" alt="Python, TypeScript, PHP, HTML, CSS">
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css&theme=dark" alt="Python, JavaScript, TypeScript, PHP, HTML, CSS">
 
-**App Development & Backend**
+**Applications & Backend**
 
 <img src="https://skillicons.dev/icons?i=react,fastapi&theme=dark" alt="React and FastAPI">
 
-React Native · Expo · Full-Stack Development · SQL
+React Native · Expo · Full-Stack Development · SQL · API Integration
 
-**AI & Machine Learning**
+**Development Workflow**
 
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-Learn">
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub">
 
-Machine Learning · Scikit-Learn · XGBoost · Explainable AI (XAI) · Natural Language Processing (NLP) · YOLOv8 · AI Integration
-
-**Tools & Hardware**
-
-<img src="https://skillicons.dev/icons?i=git,github,raspberrypi&theme=dark" alt="Git, GitHub, Raspberry Pi">
-
-Git & Version Control · Software Testing · IoT Systems & Hardware Integration
+Git & Version Control · Branching & Merging · Software Testing · Debugging · Team Collaboration
 
 ### 🚀 Selected Projects
 
