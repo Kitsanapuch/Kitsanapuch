@@ -3,6 +3,7 @@
 <p align="center">Applied AI · Machine Learning · Computer Vision · Explainable AI</p>
 <p align="center">
   <a href="https://kitsanapuch.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_my_website-17253C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/kitsanapuch-chuaibamrung-b74937427/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:kitsanapuch@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
