@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kitsanapuch 👋</h1>
 <h3 align="center">Software Engineering Student at Thammasat University 🇹🇭</h3>
-<p align="center">Applied AI · Machine Learning · Computer Vision · Explainable AI</p>
+<p align="center">Software Engineering · Applied AI · Full-Stack Applications · Machine Learning</p>
 <p align="center">
   <a href="https://kitsanapuch.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_my_website-17253C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/kitsanapuch-chuaibamrung-b74937427/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
@@ -9,13 +9,20 @@
 
 ### 🧠 About Me
 
-I'm a **Software Engineering student at Thammasat University**, focused on building AI applications that connect model predictions to useful, understandable software.
+I'm a **Software Engineering student at Thammasat University**. I build practical web and mobile applications, and I explore how AI can make them more useful and understandable.
 
+- 🧩 Currently building **[Physics Plus](https://github.com/Kitsanapuch/Physics-Plus-Website)**, a tutoring-center platform with student, teacher, and administrator workspaces.
 - 🌱 Prepared datasets and trained models for **real-time plant nutrient deficiency detection**, connecting computer vision with a Raspberry Pi prototype.
 - 🔎 Contributed to **ScamGraph AI**, combining ML-based scam-risk analysis, explainable results, and web/mobile workflows.
 - 🤖 Integrated **Google Gemini AI** into MySchool for tutoring, quiz generation, and learning assistance.
 - 🔬 Exploring **meta-learning, training dynamics, and predictive early stopping** through the AI Training Intelligence research proposal.
 - 💭 I value careful evaluation, clear explanations, and human judgment when developing AI systems.
+
+### 🔭 Current Work: Physics Plus
+
+**[Physics Plus — Tutoring Center Platform](https://github.com/Kitsanapuch/Physics-Plus-Website)** · Project owner and web developer · [Live site](https://physicsplus.vercel.app/)
+
+An active full-stack project that connects course discovery and enrollment with class schedules, teaching-hour records, billing, and administrator review. It has role-specific experiences for students, teachers, and administrators across 16 group and one-on-one courses. I work on the Flask application, its Turso-backed workflows, in-app notifications, and asynchronous Google Sheets sync.
 
 ### 🧠 AI & Machine Learning
 
@@ -47,7 +54,7 @@ I'm a **Software Engineering student at Thammasat University**, focused on build
 
 <img src="https://skillicons.dev/icons?i=react,fastapi&theme=dark" alt="React and FastAPI">
 
-React Native · Expo · Full-Stack Development · SQL · API Integration
+React Native · Expo · Flask · FastAPI · Turso (libSQL) · SQL · API Integration · Vercel Queue
 
 **Development Workflow**
 
@@ -59,7 +66,8 @@ Git & Version Control · Branching & Merging · Software Testing · Debugging ·
 
 | Project | What I built | Technologies |
 | :--- | :--- | :--- |
-| **[ScamGraph AI](https://kitsanapuch.vercel.app/#projects)** | A web and mobile prototype for scam-risk assessment, with ML analysis, explainable results, and evidence relationships. | React Native, Expo, TypeScript, Python, FastAPI, ML |
+| **[Physics Plus](https://github.com/Kitsanapuch/Physics-Plus-Website)** · [Live](https://physicsplus.vercel.app/) | An active tutoring-center platform connecting enrollment, scheduling, teaching operations, billing, and three role-based workspaces. | Python, Flask, JavaScript, Turso, Vercel Queue |
+| **[ScamGraph AI](https://github.com/Kitsanapuch/ScamGraph-AI)** | A web and mobile prototype for scam-risk assessment, with ML analysis, explainable results, and evidence relationships. | React Native, Expo, TypeScript, Python, FastAPI, ML |
 | **[MySchool](https://kitsanapuch.vercel.app/#projects)** | A school portal for students, parents, teachers, and administrators, with AI tutoring and learning assistance. | React Native, Expo, Google Gemini AI |
 | **[Plant Nutrient Deficiency Detection](https://kitsanapuch.vercel.app/#projects)** | An AI and IoT prototype for NPK deficiency detection, integrating real-time image detection and notifications. | Raspberry Pi 5, YOLOv8, CIRA CORE |
 
